@@ -15,13 +15,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#objective">Objective</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#data-source">Data Source</a></li>
     <li><a href="#project-components">Project components</a></li>
-    <li><a href="#list-of-original-variables"> List of original variables</a></li>
     <li><a href="#dataset-summary">Dataset summary</a></li>
+    <li><a href="#objective">Objective</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#list-of-original-variables"> List of original variables</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -37,26 +37,14 @@ The basic motivation for choosing this dataset was to explore the use of Python 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Objective
-
-The objective of this project is to answer the following 3 questions for each hotel of the dataset:
-
-* What is the seasonality for each hotel and what are the top performing months?
-* What are the top countries in terms of bookings and/or revenue?
-* What´s the most frequent guest type for each hotel?
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ## Built With
 
 * [Python]
   * Pandas
   * NumPy
-  * Matplotlib
   * Plotly
-  * Seaborn
+  
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -72,13 +60,46 @@ https://www.kaggle.com/jessemostipak/hotel-booking-demand
 
 ## Project components
 
-Github Link: [https://github.com/martamalecka/hotel-bookings-analysis](https://github.com/martamalecka/hotel-bookings-analysis)
+Github Link: [Project Repository](https://github.com/martamalecka/hotel-bookings-analysis)
 
-PPT presentation: [https://drive.google.com/file/d/1TfPAflCGpOqNTyL9xZL7mfpqZiMM6lYp/view?usp=sharing](https://drive.google.com/file/d/1TfPAflCGpOqNTyL9xZL7mfpqZiMM6lYp/view?usp=sharing)
+PROJECT PART 1 - [Data Cleaning and Feature Engineering](https://github.com/martamalecka/hotel-bookings-analysis/blob/main/Hotel%20Bookings%20Analysis%20-%20Part%201%20-%20Data%20Cleaning%2C%20Feature%20Engineering.ipynb)
 
-YouTube presentation during the Bootcamp´s Demo Day (from min. 26:00 to min. 39:00): [https://www.youtube.com/watch?v=_a42n1FRhUY&t=2359s](https://www.youtube.com/watch?v=_a42n1FRhUY&t=2359s)
+PROJECT PART 2 - [EDA and Data Visualization](https://github.com/martamalecka/hotel-bookings-analysis/blob/main/Hotel%20Bookings%20Analysis%20-%20Part%202%20-%20EDA%20and%20Data%20Visualisation.ipynb)
+
+[PPT presentation discussing the results](https://github.com/martamalecka/hotel-bookings-analysis/blob/main/hotel%20bookings%20analysis.pdf)
+
+[YouTube presentation during the Bootcamp´s Demo Day - see from min. 26:00 to min. 39:00](https://www.youtube.com/watch?v=_a42n1FRhUY&t=2359s)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Dataset summary
+
+* This data set contains a single file which compares various booking information between two hotels: a city hotel and a resort hotel.
+* Includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. A total of 32 variables.
+* All personally identifying information has been removed from the data.
+* Both hotels are assumed to be located in Portugal, however their exact location and name are unknown.
+* The dataset contains a total of 119390 entries.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Objective
+
+The objective of this project is to answer the following 3 questions for each hotel of the dataset:
+
+* What is the seasonality for each hotel and what are the top performing months?
+* What are the top countries in terms of bookings and/or revenue?
+* What´s the most frequent guest type for each hotel?
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## Roadmap
+
+- [ ] Part 1 - Data Cleaning and Feature Engineering
+- [ ] Part 2 - EDA and Data Visualisation
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 ## List of original variables: 
 
@@ -118,26 +139,6 @@ YouTube presentation during the Bootcamp´s Demo Day (from min. 26:00 to min. 39
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-## Dataset summary
-
-* This data set contains a single file which compares various booking information between two hotels: a city hotel and a resort hotel.
-* Includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. A total of 32 variables.
-* All personally identifying information has been removed from the data.
-* Both hotels are assumed to be located in Portugal, however their exact location and name are unknown.
-* The dataset contains a total of 119390 entries.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Part 1 - Data Cleaning and Feature Engineering
-- [ ] Part 2 - EDA and Data Visualisation
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -147,8 +148,6 @@ If you wish any information on the project feel free to contact me on LinkedIn o
 Linkedin: (https://www.linkedin.com/in/maleckamar/) 
 
 Email: maleckamar@gmail.com
-
-Project Link: [https://github.com/martamalecka/hotel-bookings-analysis](https://github.com/martamalecka/hotel-bookings-analysis)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
