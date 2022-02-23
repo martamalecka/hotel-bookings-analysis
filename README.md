@@ -68,7 +68,7 @@ PROJECT PART 2 - [EDA and Data Visualization](https://github.com/martamalecka/ho
 
 [PPT presentation discussing the results](https://github.com/martamalecka/hotel-bookings-analysis/blob/main/hotel%20bookings%20analysis.pdf)
 
-[YouTube presentation during the Bootcamp´s Demo Day - see from min. 26:00 to min. 39:00](https://www.youtube.com/watch?v=_a42n1FRhUY&t=2359s)
+[YouTube presentation during the Bootcamp´s Demo Day - see from min. 26:00 to min. 39:00](https://youtu.be/_a42n1FRhUY?t=1637)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
